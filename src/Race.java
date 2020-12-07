@@ -24,7 +24,4 @@ public abstract class Race {
         isExtinct = true;
     }
 
-    public void showRaceStats(){
-        System.out.println("Race: ");
-    }
 }
